@@ -1,11 +1,13 @@
-<h2>EyeForYouapp_BackEnd</h2>
+[2024-1 한림대학교 소프트웨어캡스톤디자인(01)]
+
+너눈되 - 아이포유
+
+시각장애인을 위한 AI카메라 앱 서비스
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EyeForYou&fontSize=90" />
 <br>
 
-너눈되 - 아이포유
 
-시각장애인을 위한 AI카메라 앱을 위한 백엔드 코드입니다. 
 
 이는 AI카메라가 돌아가기 위한 인공지능 모델 및 코드입니다.
 <a href="https://drive.google.com/file/d/1DlfjXgiAk8QIVTAmmDes7RbiRSQLU61o/view?usp=sharing">
