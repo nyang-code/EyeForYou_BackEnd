@@ -1,4 +1,6 @@
-<h2>EyeForYooapp_BackEnd</h2>
+<h2>EyeForYouapp_BackEnd</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EyeForYouapp&fontSize=90" />
 <br>
 
 너눈되 - 아이포유
