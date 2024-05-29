@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=fastapi,python,dcomponents&perline="/>
 
 ## 1. 프로젝트 명
-시각장애인을 위한 AI카메라 앱 서비스 
+>시각장애인을 위한 AI카메라 앱 서비스 
 <img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/bfe4453c-0367-4795-a8b6-3f8d9876efe3" width="200px"/>
 
 ## 2. 프로젝트 소개
