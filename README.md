@@ -58,11 +58,11 @@
 ## 6. 프로젝트 시연 영상
 
 ## 8. 사용 기술 및 환경 
-프로그래밍 언어: Python
-웹 프레임워크: FastAPI
-모델 훈련 및 추론: PyTorch, timm
-터널링 서비스: ngrok
-데이터 전처리 및 후처리: OpenCV, torchvision
+- 프로그래밍 언어: Python
+- 웹 프레임워크: FastAPI
+- 모델 훈련 및 추론: PyTorch, timm
+- 터널링 서비스: ngrok
+- 데이터 전처리 및 후처리: OpenCV, torchvision
 
 ## 7. 시스템 아키텍처
 클라이언트 (모바일/웹): 사용자가 상품을 촬영하고 복지 혜택 정보를 검색합니다.
