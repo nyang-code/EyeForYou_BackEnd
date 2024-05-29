@@ -56,7 +56,10 @@
 - 이 앱은 시각 장애인들의 삶을 보다 더 편안하게 만들기 위한 노력의 일환으로, 오프라인 쇼핑 경험을 향상시키는 데 중요한 역할을 할 것으로 기대된다.
 
 ## 6. 프로젝트 시연 영상
-https://youtube.com/shorts/tCxOXFQCtCA?feature=share
+> AI 카메라 시연 영상
+- https://youtube.com/shorts/tCxOXFQCtCA?feature=share
+> 중증, 경증 해택 모아보기
+- https://youtube.com/shorts/EYVD3zvKUJY
 
 ## 8. 사용 기술 및 환경 
 - 프로그래밍 언어: Python
