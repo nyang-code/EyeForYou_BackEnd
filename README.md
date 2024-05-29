@@ -41,14 +41,16 @@
 - AI 상품 인식: 촬영된 이미지에서 AI 모델이 자동으로 상품을 인식합니다.
 - 음성 안내: 인식된 상품의 이름과 세부 정보를 음성으로 안내합니다.
 - 코너 인식: 상품이 인식되지 않은 경우, AI가 현재 위치가 스낵 코너인지 음료 코너인지를 음성으로 안내합니다.
-<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/551eca2d-4f51-4e6a-ac39-3d40b9e1774b" width="300px"/>
+<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/2bdd054c-be33-449e-a508-6207ec6405c5" width="300px"/>
+
 
 > 복지 혜택 정보 제공
 - 간편 검색: 시각 장애인들이 받을 수 있는 다양한 복지 혜택 정보를 한 곳에 모아 제공합니다.
 - 맞춤 정보 제공: 사용자는 복잡한 절차 없이 자신에게 맞는 혜택 정보를 쉽게 얻을 수 있습니다.
 - 카테고리 분류: 생애 주기, 복지 서비스, 중증 및 경증 등으로 나누어 정보를 제공하여 필요한 정보를 빠르게 찾을 수 있도록 도와줍니다.
 - 음성 안내: 혜택 정보도 보이스 오버 기능을 통해 음성으로 안내하여 시각 장애인들이 쉽게 접근할 수 있도록 합니다.
-<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/b96fc3d2-f275-4473-b2b0-0d5503f340b9" width="300px"/>
+<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/99da6a6f-5590-4732-9db2-30189a640b5b" width="300px"/>
+
 
 
 
