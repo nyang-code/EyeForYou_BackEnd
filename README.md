@@ -12,6 +12,17 @@
     <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjhfNDUg%2FMDAxNjY0MzQ1NTQwMzE4.8kPOBHlmDWuHuIE16vnJwv_TuAwm63iswN1wGW3Fg_og.jyAmwmPSRXAtgoZYq1oDxoTn_zoN00Pp-AUQvkVFpNcg.PNG.dldhxpzm111%2F%25B1%25B8%25B1%25DB%25B5%25E5%25B6%25F3%25C0%25CC%25BA%25EA.png&type=sc960_832" width="50" />
 </a>
 
+## 팀원구성
+<div align="center">
+
+| **박서영** | **양유진** | **유혜원** | **이강혁** | **조정덕** |
+| :------: |  :------: | :------: | :------: | :------: |
+| <img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/f23f2f89-b6d1-4b06-866c-cfcab555ac41" height=150 width=150> <br/> | [<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/7c5cadc5-4839-44e0-bcf3-cb03a3e523fc" height=150 width=150> <br/> @nyang-code](https://github.com/nyang-code) | [<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/9cf14a62-a352-48b7-b2f5-342b28384bcf" height=150 width=150> <br/> @lyuhw1023](https://github.com/lyuhw1023) | [<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/cb3e5c60-6f7a-4eaa-9f7a-06929dc1ebe0" height=150 width=150> <br/> @KH4901](https://github.com/KH4901) | [<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/c39a169a-7119-43f7-815f-48080c7897d0" height=150 width=150> <br/> @JDeokk](https://github.com/JDeokk) |
+
+</div>
+
+<br>
+
 ## Tech
 <img src="https://skillicons.dev/icons?i=fastapi,python,dcomponents&perline="/>
 
@@ -24,8 +35,6 @@
 - 사용자가 원하는 상품을 홈 화면에 있는 카메라 아무 곳을 터치해 촬영하면, AI가 자동으로 상품을 인식하여 상품의 이름과 세부 정보를 음성으로 알려준다.
 - 이 기능을 통해 시각 장애인분들은 주변 사람들의 도움 없이도 자유롭게 원하는 상품을 선택할 수 있게 된다.
 - 이는 시각장애인분들에게 자립적인 일상생활을 가능케 하며, 쇼핑의 자유를 부여해 준다.
-
-
 
 
 ## 3. 프로젝트 목적 
