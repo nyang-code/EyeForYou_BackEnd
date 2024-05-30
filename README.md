@@ -1,16 +1,24 @@
+# EYEFORYOU
+
 >[2024-1 한림대학교 소프트웨어캡스톤디자인(01)]
 
-<h2>너눈되 - 아이포유</h2>
+<br>
+
 
 ## 시각장애인을 위한 AI카메라 앱 서비스, 백엔드입니다.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EyeForYou&fontSize=90" />
 <br>
 
-이는 AI카메라가 돌아가기 위한 인공지능 모델 및 코드입니다.
+> AI카메라가 돌아가기 위한 인공지능 모델 및 코드입니다.
+
 <a href="https://drive.google.com/file/d/1DlfjXgiAk8QIVTAmmDes7RbiRSQLU61o/view?usp=sharing">
-    <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjhfNDUg%2FMDAxNjY0MzQ1NTQwMzE4.8kPOBHlmDWuHuIE16vnJwv_TuAwm63iswN1wGW3Fg_og.jyAmwmPSRXAtgoZYq1oDxoTn_zoN00Pp-AUQvkVFpNcg.PNG.dldhxpzm111%2F%25B1%25B8%25B1%25DB%25B5%25E5%25B6%25F3%25C0%25CC%25BA%25EA.png&type=sc960_832" width="50" />
+    <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjhfNDUg%2FMDAxNjY0MzQ1NTQwMzE4.8kPOBHlmDWuHuIE16vnJwv_TuAwm63iswN1wGW3Fg_og.jyAmwmPSRXAtgoZYq1oDxoTn_zoN00Pp-AUQvkVFpNcg.PNG.dldhxpzm111%2F%25B1%25B8%25B1%25DB%25B5%25E5%25B6%25F3%25C0%25CC%25BA%25EA.png&type=sc960_832" width="100" />
 </a>
+
+
+## 팀명 : 너눈되 - 너의 눈이 되어줄게
+<br>
 
 ## 팀원구성
 <div align="center">
@@ -50,7 +58,9 @@
 - AI 상품 인식: 촬영된 이미지에서 AI 모델이 자동으로 상품을 인식합니다.
 - 음성 안내: 인식된 상품의 이름과 세부 정보를 음성으로 안내합니다.
 - 코너 인식: 상품이 인식되지 않은 경우, AI가 현재 위치가 스낵 코너인지 음료 코너인지를 음성으로 안내합니다.
-<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/99da6a6f-5590-4732-9db2-30189a640b5b" width="300px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/11c4f423-f342-4ce6-b761-509086ceea3a" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/f720da3b-a894-40a1-953e-bb6fbe4a2b63" width="200px"/>
+<br><br>
 
 
 > 복지 혜택 정보 제공
@@ -58,8 +68,21 @@
 - 맞춤 정보 제공: 사용자는 복잡한 절차 없이 자신에게 맞는 혜택 정보를 쉽게 얻을 수 있습니다.
 - 카테고리 분류: 생애 주기, 복지 서비스, 중증 및 경증 등으로 나누어 정보를 제공하여 필요한 정보를 빠르게 찾을 수 있도록 도와줍니다.
 - 음성 안내: 혜택 정보도 보이스 오버 기능을 통해 음성으로 안내하여 시각 장애인들이 쉽게 접근할 수 있도록 합니다.
-<img src="https://github.com/nyang-code/EyeForYouapp_BackEnd/assets/85928740/2bdd054c-be33-449e-a508-6207ec6405c5" width="300px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/39946a94-423c-4400-a83a-630a0bce6348" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/fc01894d-a79e-4a0f-8953-cd8d553ea6d5" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/e54c839f-6d51-431b-9bb8-cd860ef9abc9" width="200px"/>
+<br>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/8ca249cf-56a1-475a-807f-6e6436ec717c" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/18137006-faf7-43e1-88e9-9a8f765b43cc" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/39b109fc-ef2c-468d-9963-823388d2ef04" width="200px"/>
+<br><br>
 
+> 도움말 기능
+- 접근성: 모든 화면에는 도움말 기능이 포함되어 있습니다. 사용자는 언제든지 도움말 아이콘을 통해 각 화면에 대한 상세한 설명을 받을 수 있습니다.
+- 음성 안내: 모든 도움말 내용은 보이스 오버 기능을 통해 음성으로 안내됩니다. 이는 시각 장애인들이 어플리케이션을 더욱 쉽게 이해하고 사용할 수 있도록 돕습니다.
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/9c8f4a02-e107-4715-9722-75d569e12d40" width="200px"/>
+<img src="https://github.com/lyuhw1023/lyuhw1023/assets/52669844/fcb4e5a5-a3c1-4d28-ab7f-8158b58ebfb6" width="200px"/>
+<br><r>
 
 
 
